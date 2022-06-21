@@ -22,7 +22,7 @@
             </v-avatar>
           </v-flex>
           <v-fle>
-            <p class="white--text mt-3 headline">Juanito Perez</p>
+            <p class="white--text mt-3 headline">Luis Gonzalez</p>
           </v-fle>
         </v-layout>
       </v-navigation-drawer>
