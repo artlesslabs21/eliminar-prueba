@@ -23,6 +23,7 @@
           </v-flex>
           <v-fle>
             <p class="white--text mt-3 headline">Luis Gonzalez</p>
+            <p>Lorem prueba</p>
           </v-fle>
         </v-layout>
       </v-navigation-drawer>
